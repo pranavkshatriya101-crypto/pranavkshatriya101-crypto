@@ -1,4 +1,4 @@
-# Hi, I'm Pranav Kshatriya 👋
+# Hi, I'm Pranav Kshatriya 
 
 ### MBA Marketing | Consumer Insights | Brand Strategy | Market Research | Digital Analytics
 
@@ -8,7 +8,7 @@ I enjoy turning consumer and market research into actionable business and market
 
 ---
 
-## 🔎 What I Work On
+## What I Work On
 
 - Consumer & Market Research
 - Brand Strategy & Positioning
@@ -21,7 +21,7 @@ I enjoy turning consumer and market research into actionable business and market
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Alankit Limited
 **Marketing & Growth Strategy Intern**
@@ -40,23 +40,23 @@ Led a 6-week social campaign and SME study, generating 20+ qualified B2B leads w
 
 ---
 
-## 📊 Marketing Projects
+## Marketing Projects
 
-🚧 Customer Segmentation & RFM Analysis
+Customer Segmentation & RFM Analysis
 
-🚧 Consumer Sentiment Analysis
+Consumer Sentiment Analysis
 
-🚧 Competitive Intelligence
+Competitive Intelligence
 
-🚧 Marketing Campaign Analytics
+Marketing Campaign Analytics
 
-🚧 AI-Powered Market Research
+AI-Powered Market Research
 
-🚧 Brand Strategy Case Studies
+Brand Strategy Case Studies
 
 ---
 
-## 🧠 Skills
+## Skills
 
 ### Marketing
 Brand Management · Market Research · Consumer Behaviour · Digital Marketing · Growth Strategy
@@ -72,7 +72,7 @@ Communication · Leadership · Stakeholder Management
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 - Digital Marketing — University of Illinois
 - Brand Management — University of London
@@ -82,7 +82,7 @@ Communication · Leadership · Stakeholder Management
 
 ---
 
-## 🏆 Case Competitions
+## Case Competitions
 
 - L'Oréal Sustainability Challenge
 - Coca-Cola Mantra Challenge
