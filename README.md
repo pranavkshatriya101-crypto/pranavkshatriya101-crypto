@@ -90,12 +90,12 @@ Communication · Leadership · Stakeholder Management
 
 ---
 
-## 📌 Leadership
+## Leadership
 
 Student Coordinator — Scholarly Development and Publications Committee, SIBM Nagpur
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [LinkedIn](YOUR-LINKEDIN-LINK)
